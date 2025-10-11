@@ -2,12 +2,16 @@ This is a small addendum to pancakes' MOTHER Restored patch to revert the
 Mother title screen and intro back to the US prototype rom's Earth Bound 
 title screen.
 
-If you'd like one of the many title screens available for the 25th Anniversary 
-patches instead then let me know and I can take a crack at it.
+You should apply this to a rom already patched with MOTHER Restored.
 
-You should apply this to a rom already patched with MOTHER Restored, matching 
-either of these checksums: 
-MOTHER Restored (proto header): 320e027a6a138d73729161a54e182a2ddede75f6
-MOTHER Restored (VC header): 915a9937b542da7087cf837541e1c0220e0837ba
+Proto Header:  
+File SHA-1: 55468B3BEC18089A4BF58D257A88DC2AD1E16898  
+File CRC32: EF560C2C
 
-File SHA1: ffbf1faff23316b54d51294c1c033bb52dd63175
+VC Header:  
+File SHA-1: 915A9937B542DA7087CF837541E1C0220E0837BA  
+File CRC32: B1075ED4
+
+Unheadered:  
+ROM SHA-1: 7C0191B3840A9F9FB24DB9FD5F744BF78EB4A7D5  
+ROM CRC32: 4910BE94
