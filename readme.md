@@ -1,5 +1,7 @@
 This patch changes the title screen of pancakes' MOTHER Restored patch from the Japanese MOTHER design back to the Earth Bound title screen from the US prototype.
 
+Optional patches are included to add 989fox989's "Beginnings" subtitle or the "ZERO" subtitle from the old Demiforce rom. These should be applied after the main "Earth Bound Restored" patch.
+
 This patch should be applied to a rom already patched with MOTHER Restored. 
 This patch is compatible with both of the patches included in MOTHER Restored Difficulty Tweaks, as long as you apply this one first.
 
